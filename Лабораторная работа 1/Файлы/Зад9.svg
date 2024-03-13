@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-3 {
+        letter-spacing: 1.07em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6, .cls-7 {
+        font-size: 38.04px;
+      }
+
+      .cls-6, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        font-family: TimesNewRomanPS-ItalicMT, 'Times New Roman';
+        font-style: italic;
+      }
+
+      .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-14, .cls-11 {
+        font-size: 20.61px;
+      }
+
+      .cls-22 {
+        letter-spacing: 1.07em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24, .cls-25, .cls-10, .cls-20 {
+        font-size: 38.05px;
+      }
+
+      .cls-24, .cls-7, .cls-26, .cls-27, .cls-28 {
+        font-family: MT-Extra, 'MT Extra';
+      }
+
+      .cls-29 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-25, .cls-30 {
+        font-family: SymbolMT, Symbol;
+      }
+
+      .cls-15, .cls-30, .cls-12, .cls-28 {
+        font-size: 35.66px;
+      }
+
+      .cls-31 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.22em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.31em;
+      }
+
+      .cls-16 {
+        font-size: 22px;
+      }
+
+      .cls-8, .cls-26 {
+        font-size: 38.05px;
+      }
+
+      .cls-34 {
+        letter-spacing: -.31em;
+      }
+
+      .cls-35 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9, .cls-27 {
+        font-size: 35.64px;
+      }
+
+      .cls-17, .cls-13 {
+        font-size: 21.99px;
+      }
+
+      .cls-36 {
+        letter-spacing: -.31em;
+      }
+
+      .cls-37 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-40 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-18 {
+        font-size: 20.61px;
+      }
+
+      .cls-41 {
+        letter-spacing: -.31em;
+      }
+
+      .cls-42 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-43 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-44 {
+        letter-spacing: -.21em;
+      }
+
+      .cls-45 {
+        letter-spacing: -.27em;
+      }
+
+      .cls-46 {
+        letter-spacing: 0em;
+      }
+
+      .cls-47 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-48 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-19 {
+        font-size: 22px;
+      }
+
+      .cls-49 {
+        letter-spacing: -.31em;
+      }
+
+      .cls-21 {
+        font-size: 72px;
+      }
+
+      .cls-50 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-51 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-52 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-53 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-54 {
+        letter-spacing: -.22em;
+      }
+
+      .cls-55 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-29" x1="0" y1="201.07" x2="191.14" y2="201.07"/>
+    <polygon points="189.16 203.97 200 201.07 189.16 198.16 189.16 203.97"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="200" y1="401.07" x2="8.86" y2="401.07"/>
+    <polygon points="10.84 398.16 0 401.07 10.84 403.97 10.84 398.16"/>
+  </g>
+  <circle cx="400" cy="200" r="1.5"/>
+  <g>
+    <text class="cls-19" transform="translate(104.39 193.68) scale(1.01 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-8" transform="translate(87.62 183.87) scale(1.01 1)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-26" transform="translate(83.42 150) scale(1.01 1)"><tspan class="cls-55" x="0" y="0"></tspan><tspan class="cls-49" x="13.28" y="0"></tspan><tspan x="17.05" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-18" transform="translate(410 264.83) scale(1.01 1)"><tspan x="0" y="0">&apos;</tspan></text>
+    <text class="cls-18" transform="translate(405.98 290) scale(1.01 1)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-12" transform="translate(390.3 280.78) scale(1.01 1)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-28" transform="translate(386.38 244.67) scale(1.01 1)"><tspan class="cls-53" x="0" y="0"></tspan><tspan class="cls-33" x="12.44" y="0"></tspan><tspan x="15.97" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-16" transform="translate(118.8 394.74) scale(.99 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-10" transform="translate(102.42 384.93) scale(.99 1)"><tspan x="0" y="0">p</tspan></text>
+    <path d="m102.05,384.93h-22.05l11.54-25.77,10.51,25.77Zm-4.34-1.52l-7.33-17.97-8.08,17.97h15.41Z"/>
+    <text class="cls-24" transform="translate(80.09 351.07) scale(.99 1)"><tspan class="cls-50" x="0" y="0"></tspan><tspan class="cls-44" x="27.78" y="0"></tspan><tspan class="cls-46" x="35.54" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-16" transform="translate(377.52 192.61)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-20" transform="translate(430.14 182.8)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-10" transform="translate(358.65 182.8)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-25" transform="translate(401.08 182.8)"><tspan x="0" y="0">=</tspan></text>
+    <text class="cls-24" transform="translate(354.49 148.93)"><tspan class="cls-37" x="0" y="0"></tspan><tspan class="cls-32" x="13.89" y="0"></tspan><tspan class="cls-22" x="21.16" y="0"></tspan><tspan x="77.32" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-18" transform="translate(81.18 265.9)"><tspan x="0" y="0">&apos;</tspan></text>
+    <text class="cls-18" transform="translate(79.43 291.07)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-15" transform="translate(128.62 281.85)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-12" transform="translate(61.78 281.85)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-30" transform="translate(101.46 281.85)"><tspan x="0" y="0">=</tspan></text>
+    <text class="cls-28" transform="translate(57.9 245.73)"><tspan class="cls-51" x="0" y="0"></tspan><tspan class="cls-54" x="13.01" y="0"></tspan><tspan x="19.82" y="0"></tspan></text>
+    <text class="cls-28" transform="translate(130 250.1)"><tspan x="0" y="0"></tspan></text>
+  </g>
+  <text class="cls-16" transform="translate(396.43 392.17)"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-10" transform="translate(377.51 382.36)"><tspan x="0" y="0">p</tspan></text>
+  <path d="m377.12,382.36h-22.3l11.67-25.77,10.63,25.77Zm-4.39-1.52l-7.42-17.97-8.18,17.97h15.59Z"/>
+  <text class="cls-24" transform="translate(354.93 348.49)"><tspan class="cls-5" x="0" y="0"></tspan><tspan class="cls-4" x="27.78" y="0"></tspan><tspan class="cls-3" x="39.57" y="0"></tspan></text>
+  <text class="cls-21" transform="translate(169.26 80.57)"><tspan x="0" y="0">ЛСО</tspan></text>
+  <text class="cls-21" transform="translate(786.41 80.57)"><tspan x="0" y="0">СЦИ</tspan></text>
+  <g>
+    <line class="cls-29" x1="700" y1="200" x2="791.14" y2="200"/>
+    <polygon points="789.16 202.91 800 200 789.16 197.09 789.16 202.91"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="800" y1="300" x2="708.86" y2="300"/>
+    <polygon points="710.84 297.09 700 300 710.84 302.91 710.84 297.09"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="800" y1="400" x2="608.86" y2="400"/>
+    <polygon points="610.84 397.09 600 400 610.84 402.91 610.84 397.09"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="900" y1="300" x2="991.14" y2="300"/>
+    <polygon points="989.16 302.91 1000 300 989.16 297.09 989.16 302.91"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="1000" y1="200" x2="908.86" y2="200"/>
+    <polygon points="910.84 197.09 900 200 910.84 202.91 910.84 197.09"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="900" y1="400" x2="1091.14" y2="400"/>
+    <polygon points="1089.16 402.91 1100 400 1089.16 397.09 1089.16 402.91"/>
+  </g>
+  <g>
+    <text class="cls-17" transform="translate(742.02 192.62) scale(.99 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-13" transform="translate(753.39 192.62) scale(.99 1)"><tspan x="0" y="0">Ц</tspan></text>
+    <text class="cls-6" transform="translate(725.69 182.77) scale(.99 1)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-7" transform="translate(721.57 148.93) scale(.99 1)"><tspan class="cls-31" x="0" y="0"></tspan><tspan class="cls-2" x="27.77" y="0"></tspan><tspan x="38.19" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-14" transform="translate(744.59 266.79) scale(.99 1)"><tspan x="0" y="0">&apos;</tspan></text>
+    <text class="cls-14" transform="translate(740.65 291.97) scale(.99 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-11" transform="translate(751.28 291.97) scale(.99 1)"><tspan x="0" y="0">Ц</tspan></text>
+    <text class="cls-9" transform="translate(725.38 282.75) scale(.99 1)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-27" transform="translate(721.53 246.63) scale(.99 1)"><tspan class="cls-43" x="0" y="0"></tspan><tspan class="cls-42" x="26.02" y="0"></tspan><tspan class="cls-23" x="35.79" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-17" transform="translate(708.78 392.18)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-13" transform="translate(720.18 392.18)"><tspan x="0" y="0">Ц</tspan></text>
+    <text class="cls-6" transform="translate(692.33 382.34)"><tspan x="0" y="0">p</tspan></text>
+    <path d="m691.93,382.34h-22.13l11.58-25.76,10.55,25.76Zm-4.35-1.52l-7.36-17.96-8.11,17.96h15.47Z"/>
+    <text class="cls-7" transform="translate(669.91 348.49)"><tspan class="cls-40" x="0" y="0"></tspan><tspan class="cls-38" x="41.65" y="0"></tspan><tspan class="cls-41" x="52.88" y="0"></tspan><tspan x="56.64" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-17" transform="translate(954.9 192.62) scale(.99 1)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-13" transform="translate(967.95 192.62) scale(.99 1)"><tspan x="0" y="0">Ц</tspan></text>
+    <text class="cls-6" transform="translate(936.17 182.77) scale(.99 1)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-7" transform="translate(932.05 148.93) scale(.99 1)"><tspan class="cls-1" x="0" y="0"></tspan><tspan class="cls-47" x="27.77" y="0"></tspan><tspan class="cls-34" x="38.5" y="0"></tspan><tspan class="cls-35" x="42.26" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-14" transform="translate(960.31 266.79) scale(.99 1)"><tspan x="0" y="0">&apos;</tspan></text>
+    <text class="cls-14" transform="translate(958.56 291.97) scale(.99 1)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-11" transform="translate(970.76 291.97) scale(.99 1)"><tspan x="0" y="0">Ц</tspan></text>
+    <text class="cls-9" transform="translate(941.05 282.75) scale(.99 1)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-27" transform="translate(937.2 246.63) scale(.99 1)"><tspan class="cls-39" x="0" y="0"></tspan><tspan class="cls-52" x="26.02" y="0"></tspan><tspan class="cls-36" x="36.07" y="0"></tspan><tspan x="39.6" y="0"></tspan></text>
+  </g>
+  <g>
+    <text class="cls-17" transform="translate(1009.23 392.18)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-13" transform="translate(1022.33 392.18)"><tspan x="0" y="0">Ц</tspan></text>
+    <text class="cls-6" transform="translate(990.44 382.34)"><tspan x="0" y="0">p</tspan></text>
+    <path d="m990.03,382.34h-22.15l11.59-25.76,10.56,25.76Zm-4.36-1.52l-7.36-17.96-8.12,17.96h15.48Z"/>
+    <text class="cls-7" transform="translate(968.02 348.49)"><tspan class="cls-48" x="0" y="0"></tspan><tspan class="cls-45" x="55.54" y="0"></tspan><tspan x="60.71" y="0"></tspan></text>
+  </g>
+  <circle cx="100" cy="301.07" r="1.5"/>
+  <g>
+    <line class="cls-29" x1="300" y1="300" x2="491.14" y2="300"/>
+    <polygon points="489.16 302.91 500 300 489.16 297.09 489.16 302.91"/>
+  </g>
+  <g>
+    <line class="cls-29" x1="300" y1="400" x2="491.14" y2="400"/>
+    <polygon points="489.16 402.91 500 400 489.16 397.09 489.16 402.91"/>
+  </g>
+</svg>
